@@ -26,9 +26,9 @@
 - **Mock Investment App (Flutter, Capstone)**  
   주식 모의투자 · 실시간 가격 · 로고 인식
 
-- **공부의 숲 (React)**
-  스터디 생성/수정 · 오늘의 집중(타이머) · 오늘의 습관(일정 관리)
-  FE : https://github.com/gptjd0204/fs12-forest-of-study-teemo-fe
+- **공부의 숲 (React)**  
+  스터디 생성/수정 · 오늘의 집중(타이머) · 오늘의 습관(일정 관리)<br>
+  FE : https://github.com/gptjd0204/fs12-forest-of-study-teemo-fe <br>
   BE : https://github.com/gptjd0204/fs12-forest-of-study-teemo-be
 
 ---
