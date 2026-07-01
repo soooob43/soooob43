@@ -1,22 +1,35 @@
 
 
 ## ✨ Tech Stacks ✨
+
+### Frontend
 <div align="center">
-<img src="https://skillicons.dev/icons?i=flutter" />
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=androidstudio" />
-<img src="https://skillicons.dev/icons?i=figma" />
 <img src="https://skillicons.dev/icons?i=html" />
 <img src="https://skillicons.dev/icons?i=css" />
 <img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=typescript" />
+<img src="https://skillicons.dev/icons?i=react" />
 <img src="https://skillicons.dev/icons?i=nextjs" />
-<img src="https://skillicons.dev/icons?i=vercel" />
-<img src="https://skillicons.dev/icons?i=express" />
-<img src="https://skillicons.dev/icons?i=linux" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://skillicons.dev/icons?i=github" />
-
+<img src="https://skillicons.dev/icons?i=vite" />
+<img src="https://skillicons.dev/icons?i=flutter" />
+<img src="https://skillicons.dev/icons?i=androidstudio" />
 </div>
+
+### Backend
+<div align="center">
+<img src="https://skillicons.dev/icons?i=nestjs" />
+<img src="https://skillicons.dev/icons?i=express" />
+<img src="https://skillicons.dev/icons?i=spring" />
+<img src="https://skillicons.dev/icons?i=linux" />
+</div>
+
+### Deploy / Infra
+<div align="center">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</div>
+
 
 ## 📂 university project
 
@@ -45,8 +58,8 @@ FE : https://github.com/soooob43/Capstone_StockSimulation
   BE : https://github.com/soooob43/fs12-bias-photo-be
   
 - **rooMy 사이드 프로젝트**<br>
-  FE : https://github.com/soooob43/rooMy-fe<br>
-  BE : https://github.com/soooob43/rooMy-be
+  FE : https://github.com/C-Crew-rooMy/rooMy-FE<br>
+  BE : https://github.com/C-Crew-rooMy/rooMy-BE
 ---
 
 ## 📫 Contacts
